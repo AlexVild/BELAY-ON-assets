@@ -1,1 +1,0 @@
-# BELAY-ON-assets
