@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="wind_data" version="1.3.0" audacityversion="2.4.2" sel0="0.0000000000" sel1="53.8263718821" vpos="208" h="0.0000000000" zoom="14.1008946630" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="Software" value="Lavf57.56.101"/>
+		<tag name="major_brand" value="dash"/>
+		<tag name="minor_version" value="0"/>
+		<tag name="compatible_brands" value="iso6mp41"/>
+	</tags>
+	<wavetrack name="Audio Track" isSelected="1" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0"/>
+	<wavetrack name="VEHHorn_Recent car horn 5 (ID 0850)_BSB" isSelected="1" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0"/>
+	<wavetrack name="Rock Falling Sound Effects All Sounds" isSelected="1" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="0"/>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Cold wind sound effect" isSelected="1" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="2.238721" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2373743">
+				<waveblock start="0">
+					<simpleblockfile filename="e080805f.au" len="262144" min="-0.049762" max="0.049312" rms="0.008866"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808339.au" len="262144" min="-0.08561" max="0.077721" rms="0.016483"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e08086a1.au" len="262144" min="-0.064974" max="0.069287" rms="0.012374"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e08087f9.au" len="262144" min="-0.0898" max="0.087327" rms="0.015713"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0808afa.au" len="262144" min="-0.116722" max="0.095971" rms="0.019241"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e08087b8.au" len="262144" min="-0.038891" max="0.040764" rms="0.009263"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e080879c.au" len="262144" min="-0.06614" max="0.078232" rms="0.014475"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e0808766.au" len="262144" min="-0.072355" max="0.071695" rms="0.01596"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0808c42.au" len="262144" min="-0.072106" max="0.075827" rms="0.014141"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<simpleblockfile filename="e0808139.au" len="14447" min="-0.008386" max="0.005206" rms="0.001238"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
